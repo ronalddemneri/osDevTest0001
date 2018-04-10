@@ -1,0 +1,7 @@
+{
+    "itemDisplayName": "IIS VMs & SQL Server 2016 VM.",
+    "description": "Create 1 - 4 web servers running IIS on Windows Server 2016 datacentre.  Configures vNet, with Frontend and Backend NGSs with appropriate rules.",
+    "summary": "This template creates one to four Window Server Windows Server 2016 VM(s) with IIS configured using DSC and one SQL Server 2016 standard edition VM.",
+    "githubUsername": "fixx220",
+    "dateUpdated": "2017-10-04"
+  }
